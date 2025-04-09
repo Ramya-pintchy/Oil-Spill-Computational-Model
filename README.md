@@ -66,22 +66,18 @@ oil-spill-model/
 ---
 
 ## :rocket: Getting Started
-1.Clone the repository:
-```bash
-git clone https://github.com/your-username/oil-spill-model.git
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/oil-spill-model.git
 2. Create a Directory:
-```bash
-cd oil-spill-model
-
+   ```bash
+   cd oil-spill-model
 3. Install required requirements:
-```bash
-pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
 4. Run the code:
-```bash
-python src/model.py
-```
+   ```bash
+   python src/model.py
 
 ---
 
