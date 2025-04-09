@@ -66,14 +66,22 @@ oil-spill-model/
 ---
 
 ## :rocket: Getting Started
-
+1.Clone the repository:
 ```bash
 git clone https://github.com/your-username/oil-spill-model.git
+
+2. Create a Directory:
+```bash
 cd oil-spill-model
 
+3. Install required requirements:
+```bash
 pip install -r requirements.txt
 
-python src/model.py```
+4. Run the code:
+```bash
+python src/model.py
+```
 
 ---
 
@@ -81,7 +89,7 @@ python src/model.py```
 
 ---
 
-##🤔: Future Work
+## 🤔: Future Work
 - Add real-time ocean current data
 - Model coatlines and barriers
 - Include evaporation and chemical breakdown
@@ -89,12 +97,12 @@ python src/model.py```
 
 ---
 
-##📜: License
+## 📜: License
 MIT License
 
 ---
 
-##🤝: Contributions
+## 🤝: Contributions
 Contributions are welcome! Open an issue or submit a pull request for enhancements or fixes.
 
 ---
