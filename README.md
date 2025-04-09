@@ -13,14 +13,14 @@ Model how an oil spill spreads over time on an ocean surface, considering:
 
   ---
 
-  ## 📐: Model Description
+## 📐: Model Description
 
   We solve the 2D **advection-diffusion equation**: ∂C/∂t = D(∂²C/∂x² + ∂²C/∂y²) - u ∂C/∂x - v ∂C/∂y
   
-Where:
-- `C(x, y, t)` is the oil concentration
-- `D` is the diffusion coefficient
-- `u, v` are constant current velocities (advection)
+  Where:
+  - `C(x, y, t)` is the oil concentration
+  - `D` is the diffusion coefficient
+  - `u, v` are constant current velocities (advection)
 
 ### Assumptions:
 - Flat ocean surface (2D grid)
@@ -65,7 +65,11 @@ pip install -r requirements.txt
 
 python src/model.py
 
-## 📊: Output
+---
+
+## 📊: Ouput
+
+---
 
 ##🤔: Future Work
 - Add real-time ocean current data
@@ -73,12 +77,20 @@ python src/model.py
 - Include evaporation and chemical breakdown
 - Implemet in 3D
 
+---
+
 ##📜: License
 MIT License
+
+---
 
 ##🤝: Contributions
 Contributions are welcome! Open an issue or submit a pull request for enhancements or fixes.
 
+---
+
 ##📫: Contact
 Created with curiosity by R Ramya.
 If you're interested in ocean modelling or enviornmental simulations, connect with me!
+
+---
