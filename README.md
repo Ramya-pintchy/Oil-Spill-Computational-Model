@@ -68,13 +68,13 @@ Model how an oil spill spreads over time on an ocean surface, considering:
 ## 📊: Ouput
 
 ![](output.png)
+
+
 You’ll get a 2D heatmap like this:
 
-Red = High oil concentration
-
-Yellow = Medium
-
-Black = Zero
+- Red = High oil concentration
+- Yellow = Medium
+- Black = Zero
 
 This helps visualize how the oil spreads and moves under influence of currents and diffusion.
 
