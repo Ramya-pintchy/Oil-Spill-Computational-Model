@@ -98,7 +98,7 @@ Contributions are welcome! Open an issue or submit a pull request for enhancemen
 
 ---
 
-##📫: Contact
+## 📫: Contact
 Created with curiosity by R Ramya.
 If you're interested in ocean modelling or enviornmental simulations, connect with me!
 
