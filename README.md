@@ -50,7 +50,17 @@ Model how an oil spill spreads over time on an ocean surface, considering:
 ---
 
 ## :floppy_disk: Folder Structure
-oil-spill-model/ │ ├── src/ │ └── model.py # Core simulation code │ ├── notebooks/ │ └── analysis.ipynb # Interactive visualization and exploration │ ├── data/ │ └── README.md # Placeholder for any future datasets │ ├── results/ │ └── sample_output.png # Output plots from the model │ ├── README.md # You're here! └── requirements.txt # Dependencies
+oil-spill-model/ 
+│ ├── src/ 
+| │ └── model.py # Core simulation code 
+│ ├── notebooks/ 
+  │ └── analysis.ipynb # Interactive visualization and exploration
+│ ├── data/
+  │ └── README.md # Placeholder for any future datasets 
+│ ├── results/ 
+│ └── sample_output.png # Output plots from the model 
+│ ├── README.md # You're here! 
+└── requirements.txt # Dependencies
 
 
 ---
@@ -63,7 +73,7 @@ cd oil-spill-model
 
 pip install -r requirements.txt
 
-python src/model.py
+python src/model.py```
 
 ---
 
